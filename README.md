@@ -1,1 +1,1 @@
-# JustCompaty_Project
+# JustCompany_Project
