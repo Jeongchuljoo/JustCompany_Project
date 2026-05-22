@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/s22312830/xv6_Assignment/xv6-riscv/kernel'
+let g:netrw_dirhist_2='/home/s22312830/xv6_Assignment/xv6-riscv/user'
+let g:netrw_dirhist_1='/home/s22312830/xv6_Assignment/xv6-riscv/kernel'
